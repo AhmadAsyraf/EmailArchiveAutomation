@@ -1,0 +1,18 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vscode/
+*.DS_Store
+Thumbs.db
+.env
+*.pfx
+secrets.json
+*.log
+# Temp folders
+C:\Temp\
+# Ignore NAS path mounts
+\\NAS-SERVER\*
